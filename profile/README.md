@@ -1,8 +1,8 @@
 # TEDxPurdueU
 
-**Ideas worth spreading at Purdue University.**
+**Ideas worth spreading.**
 
-TEDxPurdueU is an independently organized TEDx event in West Lafayette, Indiana. We bring together students, researchers, founders, artists, and community leaders to share ideas that spark conversation and inspire change.
+TEDxPurdueU is the official TEDxPurdueU chapter at Purdue University. We organize a TEDx conference every year on campus, bringing together founders, researchers, artists, and other accomplished individuals to Purdue to share their stories and ideas with the student community. We draw almost 500 attendees every year, making us one of the largest student-run TEDx events in the Midwest. 
 
 ## What we do
 
